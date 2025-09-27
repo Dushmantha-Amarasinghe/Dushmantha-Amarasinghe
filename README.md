@@ -10,14 +10,14 @@
 
 ---
 
-## Professional Profile
+
 Full Stack Software Engineer with expertise in developing robust web, mobile, and desktop applications. Specialized in creating scalable solutions that address real-world challenges.
 
 ## Technical Expertise
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🎯 Frontend Development
 - HTML5, CSS3, JavaScript
@@ -34,7 +34,7 @@ Full Stack Software Engineer with expertise in developing robust web, mobile, an
 - System Architecture
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🗄️ Database Management
 - MySQL
