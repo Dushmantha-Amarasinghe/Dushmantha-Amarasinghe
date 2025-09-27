@@ -1,2 +1,86 @@
-![Email-dsbamarasinghe1234@gmail](https://github.com/user-attachments/assets/a3f0122e-5e6c-4dcc-a976-3de827349f19)
-<svg xmlns="http://www.w3.org/2000/svg" width="349.25" height="28" role="img" aria-label="EMAIL: DSBAMARASINGHE1234@GMAIL.COM"><title>EMAIL: DSBAMARASINGHE1234@GMAIL.COM</title><g shape-rendering="crispEdges"><rect width="78.25" height="28" fill="#555"/><rect x="78.25" width="271" height="28" fill="#1173d4"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkdtYWlsPC90aXRsZT48cGF0aCBkPSJNMjQgNS40NTd2MTMuOTA5YzAgLjkwNC0uNzMyIDEuNjM2LTEuNjM2IDEuNjM2aC0zLjgxOVYxMS43M0wxMiAxNi42NGwtNi41NDUtNC45MXY5LjI3M0gxLjYzNkExLjYzNiAxLjYzNiAwIDAgMSAwIDE5LjM2NlY1LjQ1N2MwLTIuMDIzIDIuMzA5LTMuMTc4IDMuOTI3LTEuOTY0TDUuNDU1IDQuNjQgMTIgOS41NDhsNi41NDUtNC45MSAxLjUyOC0xLjE0NUMyMS42OSAyLjI4IDI0IDMuNDM0IDI0IDUuNDU3eiIvPjwvc3ZnPg=="/><text transform="scale(.1)" x="476.25" y="175" textLength="372.5" fill="#fff">EMAIL</text><text transform="scale(.1)" x="2137.5" y="175" textLength="2470" fill="#fff" font-weight="bold">DSBAMARASINGHE1234@GMAIL.COM</text></g></svg>
+<div align="center">
+  
+# Dushmantha Amarasinghe
+### Full Stack Developer
+
+<img src="https://github-readme-stats.vercel.app/api?username=FST-projects&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FST-projects&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## Professional Profile
+Full Stack Software Engineer with expertise in developing robust web, mobile, and desktop applications. Specialized in creating scalable solutions that address real-world challenges.
+
+## Technical Expertise
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Frontend Development
+- HTML5, CSS3, JavaScript
+- React.js
+- Flutter (Mobile)
+- Responsive Design
+- UI/UX Implementation
+
+### 🔧 Backend Development
+- Java
+- PHP
+- Node.js
+- RESTful APIs
+- System Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Database Management
+- MySQL
+- Firebase
+- Database Design
+- Query Optimization
+- Data Security
+
+### ⚙️ Development Tools
+- Git & GitHub
+- VS Code
+- Agile Methodology
+- Testing & Debugging
+- Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## Key Projects
+
+### Portfolio Website
+- **Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS
+- **Description:** Professional portfolio showcasing skills and projects
+- **Status:** Active Maintenance
+
+### Mobile Application Suite
+- **Technologies:** Flutter, Dart, Firebase
+- **Description:** Cross-platform mobile solutions
+- **Status:** In Development
+
+### Business Web Applications
+- **Technologies:** React, Node.js, MySQL
+- **Description:** Full-stack solutions for various business needs
+- **Status:** Completed
+
+---
+
+## Professional Metrics
+
+```text
+Web Development    ██████████ (90%)
+Mobile Development ████████░░ (80%)
+Backend Systems    █████████░ (85%)
+Database Design    ████████░░ (80%)
+UI/UX Design       ███████░░░ (70%)
+```
