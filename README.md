@@ -75,7 +75,7 @@
 💻 Desktop Apps        ██████░░░░ (60%)
 🔧 Backend Systems     █████████░ (85%)
 🎨 UI/UX Design        ███████░░░ (70%)
-
+```
 
 📫 Let's Connect
 <div align="center">
