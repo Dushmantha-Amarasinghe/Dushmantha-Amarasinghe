@@ -1,7 +1,7 @@
 <div align="center">
   
 # Dushmantha Amarasinghe
-### Full Stack Developer
+Full Stack Software Engineer with expertise in developing robust web, mobile, and desktop applications. Specialized in creating scalable solutions that address real-world challenges.
 
 <img src="https://github-readme-stats.vercel.app/api?username=FST-projects&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FST-projects&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
@@ -11,13 +11,13 @@
 ---
 
 
-Full Stack Software Engineer with expertise in developing robust web, mobile, and desktop applications. Specialized in creating scalable solutions that address real-world challenges.
+
 
 ## Technical Expertise
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="40%" valign="top">
 
 ### 🎯 Frontend Development
 - HTML5, CSS3, JavaScript
