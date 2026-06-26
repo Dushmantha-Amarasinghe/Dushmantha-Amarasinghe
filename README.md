@@ -1,86 +1,44 @@
 <div align="center">
-  
-# Dushmantha Amarasinghe
-Full Stack Software Engineer with expertise in developing robust web, mobile, and desktop applications. Specialized in creating scalable solutions that address real-world challenges.
 
-<img src="https://github-readme-stats.vercel.app/api?username=FST-projects&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FST-projects&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+# Dushmantha Amarasinghe
+
+Software engineer building desktop, mobile, and web apps — focused on making tools that work fast and feel good.
+
+<a href="https://dushmantha-amarasinghe.github.io/">
+  <img src="https://img.shields.io/badge/Apps%20%26%20Projects%20%E2%86%92-dushmantha--amarasinghe.github.io-343b41?style=for-the-badge" alt="Apps & Projects" />
+</a>
 
 </div>
 
 ---
 
+## Projects
 
+### [Frostbyte](https://github.com/Dushmantha-Amarasinghe/frostbyte) — Hardware-accelerated video compressor for Windows
+Electron + React desktop app. Uses NVENC, QSV, or AMF to compress videos at GPU speed. Watch Folders, a job queue, and one-click presets. FFmpeg bundled — nothing to install.
 
+### [Cueflow](https://github.com/Dushmantha-Amarasinghe/cueflow) — Email-triggered meeting recorder
+Watches Gmail for meeting invites, schedules OBS recordings automatically, then compresses to HEVC in the background. Full Telegram bot for remote control from your phone.
 
-## Technical Expertise
-
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
-
-### 🎯 Frontend Development
-- HTML5, CSS3, JavaScript
-- React.js
-- Flutter (Mobile)
-- Responsive Design
-- UI/UX Implementation
-
-### 🔧 Backend Development
-- Java
-- PHP
-- Node.js
-- RESTful APIs
-- System Architecture
-
-</td>
-<td width="60%" valign="top">
-
-### 🗄️ Database Management
-- MySQL
-- Firebase
-- Database Design
-- Query Optimization
-- Data Security
-
-### ⚙️ Development Tools
-- Git & GitHub
-- VS Code
-- Agile Methodology
-- Testing & Debugging
-- Deployment
-
-</td>
-</tr>
-</table>
+### [Refora Technologies](https://reforatech.com)
+Products built under Refora — WallWeave (Android wallpaper app, Play Store), PixelForge, BatchFlow, Pulse Monitor, AutofillPro.
 
 ---
 
-## Key Projects
+## Stack
 
-### Portfolio Website
-- **Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Description:** Professional portfolio showcasing skills and projects
-- **Status:** Active Maintenance
-
-### Mobile Application Suite
-- **Technologies:** Flutter, Dart, Firebase
-- **Description:** Cross-platform mobile solutions
-- **Status:** In Development
-
-### Business Web Applications
-- **Technologies:** React, Node.js, MySQL
-- **Description:** Full-stack solutions for various business needs
-- **Status:** Completed
+| | |
+|--|--|
+| **Desktop** | Electron · React · TypeScript · Tailwind |
+| **Mobile** | React Native (Expo) · Android |
+| **Backend** | Node.js · PHP · Java |
+| **Data** | SQLite · MySQL · Firebase |
+| **Media** | FFmpeg · OBS Studio |
 
 ---
 
-## Professional Metrics
+<div align="center">
 
-```text
-Web Development    ██████████ (90%)
-Mobile Development ████████░░ (80%)
-Backend Systems    █████████░ (85%)
-Database Design    ████████░░ (80%)
-UI/UX Design       ███████░░░ (70%)
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Dushmantha-Amarasinghe&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+</div>
